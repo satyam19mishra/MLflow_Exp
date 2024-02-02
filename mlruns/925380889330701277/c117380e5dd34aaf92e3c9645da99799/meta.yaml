@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/my_folder/SAM/AIML/03_MLOPS/Tools_Lecture/MLflow_Exp/mlruns/925380889330701277/c117380e5dd34aaf92e3c9645da99799/artifacts
+end_time: 1706870239994
+entry_point_name: ''
+experiment_id: '925380889330701277'
+lifecycle_stage: active
+run_id: c117380e5dd34aaf92e3c9645da99799
+run_name: carefree-pug-514
+run_uuid: c117380e5dd34aaf92e3c9645da99799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706870236209
+status: 3
+tags: []
+user_id: saura

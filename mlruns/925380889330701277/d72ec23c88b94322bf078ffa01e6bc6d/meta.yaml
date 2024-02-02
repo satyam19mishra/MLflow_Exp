@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/my_folder/SAM/AIML/03_MLOPS/Tools_Lecture/MLflow_Exp/mlruns/925380889330701277/d72ec23c88b94322bf078ffa01e6bc6d/artifacts
+end_time: 1706869991504
+entry_point_name: ''
+experiment_id: '925380889330701277'
+lifecycle_stage: active
+run_id: d72ec23c88b94322bf078ffa01e6bc6d
+run_name: popular-horse-746
+run_uuid: d72ec23c88b94322bf078ffa01e6bc6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706869986266
+status: 3
+tags: []
+user_id: saura
