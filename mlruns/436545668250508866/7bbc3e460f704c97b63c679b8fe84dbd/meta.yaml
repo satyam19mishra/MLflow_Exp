@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/my_folder/SAM/AIML/03_MLOPS/Tools_Lecture/MLflow_Exp/mlruns/436545668250508866/7bbc3e460f704c97b63c679b8fe84dbd/artifacts
+end_time: 1706872583101
+entry_point_name: ''
+experiment_id: '436545668250508866'
+lifecycle_stage: active
+run_id: 7bbc3e460f704c97b63c679b8fe84dbd
+run_name: iris_classifier_02-02-24
+run_uuid: 7bbc3e460f704c97b63c679b8fe84dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706872580026
+status: 3
+tags: []
+user_id: saura

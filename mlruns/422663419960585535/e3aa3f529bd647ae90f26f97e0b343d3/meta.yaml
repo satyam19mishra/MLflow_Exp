@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/422663419960585535/e3aa3f529bd647ae90f26f97e0b343d3/artifacts
+end_time: 1706872719446
+entry_point_name: ''
+experiment_id: '422663419960585535'
+lifecycle_stage: active
+run_id: e3aa3f529bd647ae90f26f97e0b343d3
+run_name: iris_classifier_method-1
+run_uuid: e3aa3f529bd647ae90f26f97e0b343d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706872716662
+status: 3
+tags: []
+user_id: saura

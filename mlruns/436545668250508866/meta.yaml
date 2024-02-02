@@ -1,0 +1,6 @@
+artifact_location: file:///c:/my_folder/SAM/AIML/03_MLOPS/Tools_Lecture/MLflow_Exp/mlruns/436545668250508866
+creation_time: 1706872223751
+experiment_id: '436545668250508866'
+last_update_time: 1706872223751
+lifecycle_stage: active
+name: iris_classifier_02-02-24
